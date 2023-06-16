@@ -1,0 +1,6 @@
+sentencepiece==0.1.99
+flask==2.2.2
+flask_restx==1.0.3
+diffusers==0.17.0
+accelerate==0.20.3
+transformers
